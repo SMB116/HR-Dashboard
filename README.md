@@ -1,5 +1,7 @@
 # HR Dashboard Analysis for a Four-Year Company
 
+To view the interactive dashboard, click [here](https://app.powerbi.com/groups/me/reports/6323b598-f872-4a7e-8b1c-01d7d782b3b4/ReportSection92576568bd202aa6eee9).
+
 ## Cleaning Process 
 This dashboard was created using Excel, Power Query, and Power BI. The data was cleaned by making surveys exit surveys more easy to understand, deleting two ids that didn’t participate in the survey, and flipping horizontally displayed data.
 
